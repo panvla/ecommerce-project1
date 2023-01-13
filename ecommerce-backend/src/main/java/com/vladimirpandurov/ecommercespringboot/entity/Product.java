@@ -22,11 +22,11 @@ public class Product {
     private ProductCategory category;
     @Column(name="sku")
     private String sku;
-    @Column(name="description")
+    @Column(name="name")
     private String name;
-    @Column(name="unit_price")
+    @Column(name="description")
     private String description;
-    @Column(name="image_url")
+    @Column(name="unit_price")
     private BigDecimal unitPrice;
     @Column(name="image_url")
     private String imageUrl;
