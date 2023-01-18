@@ -1,5 +1,10 @@
-/* You can add global styles to this file, and also import other style files
-*{
+/* 
+ * ----------------------------
+ * Common CSS
+ * ----------------------------
+ */
+
+ *{
     margin:0;
     padding:0;
     -webkit-box-sizing:border-box;
@@ -714,6 +719,7 @@ table.table.table-bordered th{
     font-weight:800;
     color:#0da8e4
 }
+
 .detail-section{
     margin-top:60px
 }
@@ -721,6 +727,7 @@ table.table.table-bordered th{
 .detail-img{
     width: 30%;
 }
+
 /**/
 
 /* 
